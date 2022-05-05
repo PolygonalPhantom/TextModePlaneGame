@@ -14,7 +14,7 @@ To control the plane (^-_->|), you need to use the arrow keys.
 Its the first version released.
 
 ### v0.2.0 - Terrain Update
-Added simple random terrain generation & improoved the movement system
+Added simple random terrain generation & improved the movement system
 
 ### v0.3.0 - Better Terrain (Comming soon)
 Will probably only feature terrain generation modifications
