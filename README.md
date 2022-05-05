@@ -7,3 +7,14 @@ This project is a simple project i decided to start work on because i was bored.
 As mentioned in "main.cpp", you are free to do whatever you want with the code.
 
 To control the plane (^-_->|), you need to use the arrow keys.
+
+## Versions & Updates
+
+### v0.1.0 - Initial Beta Release
+Its the first version released.
+
+### v0.2.0 - Terrain Update
+Added simple random terrain generation & improoved the movement system
+
+### v0.3.0 - Better Terrain (Comming soon)
+Will probably only feature terrain generation modifications
