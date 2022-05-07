@@ -16,5 +16,5 @@ Its the first version released.
 ### v0.2.0 - Terrain Update
 Added simple random terrain generation & improved the movement system
 
-### v0.3.0 - Better Terrain (Comming soon)
+### v0.3.0 - Better Terrain (Coming soon)
 Will probably only feature terrain generation modifications
