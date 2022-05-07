@@ -10,7 +10,7 @@ To control the plane (^-_->|), you need to use the arrow keys.
 
 ## Versions & Updates
 
-### v0.1.0 - Initial Beta Release
+### v0.1.0 - Initial Release
 Its the first version released.
 
 ### v0.2.0 - Terrain Update
