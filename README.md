@@ -8,11 +8,7 @@ This project is a simple project i decided to start work on because i was bored.
 ### Prerequisites 
 * GCC-GNU Compiler
 ### Building
-In the root folder, run this:
-```
-mkdir Build; g++ main.cpp -o "Build/Text Mode Plane Game"
-```
-Or use `compile.bat`
+In the root folder, use `compile.bat`
 ## Versions & Updates
 
 ### v0.1.0 - Initial Release
