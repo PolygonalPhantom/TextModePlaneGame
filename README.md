@@ -10,7 +10,7 @@ This project is a simple project i decided to start work on because i was bored.
 ### Building
 In the root folder, run this:
 ```
-g++ main.cpp -o "Build/Text Mode Plane Game"
+mkdir Build; g++ main.cpp -o "Build/Text Mode Plane Game"
 ```
 Or use `compile.bat`
 ## Versions & Updates
