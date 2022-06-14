@@ -2,12 +2,17 @@
 A simple console game
 
 # Info
-This project is a simple project i decided to start work on because i was bored. Please take into consideration i am not a very good programmer, so thats why i decided to start with this small plane game :).
+This project is a simple project i decided to start work on because i was bored. Please take into consideration i am not a very good programmer, so thats why i decided to start with this small plane game :). To control the plane (^-_->|), you need to use the arrow keys.
 
-As mentioned in "main.cpp", you are free to do whatever you want with the code.
-
-To control the plane (^-_->|), you need to use the arrow keys.
-
+# How to Build from Source
+### Prerequisites 
+* GCC-GNU Compiler
+### Building
+In the root folder, run this:
+```
+g++ main.cpp -o "Build/Text Mode Plane Game"
+```
+Or use `compile.bat`
 ## Versions & Updates
 
 ### v0.1.0 - Initial Release
